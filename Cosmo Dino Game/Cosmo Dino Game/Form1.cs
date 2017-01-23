@@ -30,7 +30,7 @@ namespace Cosmo_Dino_Game
 
         private void instBtnClick(object sender, EventArgs e)
         {
-            //TODO: Show instructions. Maybe as pop up...
+
         }
 
         //Check which dino was selested
