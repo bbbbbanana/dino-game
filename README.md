@@ -1,2 +1,2 @@
-# dino-game
-A retro themed game
+# Dino game
+A retro themed game.

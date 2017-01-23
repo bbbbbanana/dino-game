@@ -31,7 +31,6 @@ namespace Cosmo_Dino_Game
         private void instBtnClick(object sender, EventArgs e)
         {
             //TODO: Show instructions
-            MessageBox.Show("Show instructions");
         }
 
         //Check which dino was selested
