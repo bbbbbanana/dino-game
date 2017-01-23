@@ -1,2 +1,2 @@
 # Dino game
-A retro themed game. 
+A retro themed game with enhanced UI.
