@@ -8,3 +8,12 @@ C:\Users\Nikhil\Desktop\Cosmo Dino\Cosmo Dino Game\Cosmo Dino Game\obj\Debug\Cos
 C:\Users\Nikhil\Desktop\Cosmo Dino\Cosmo Dino Game\Cosmo Dino Game\obj\Debug\Cosmo Dino Game.pdb
 C:\Users\Nikhil\Desktop\Cosmo Dino\Cosmo Dino Game\Cosmo Dino Game\obj\Debug\Cosmo_Dino_Game.Form1.resources
 C:\Users\Nikhil\Desktop\Cosmo Dino\Cosmo Dino Game\Cosmo Dino Game\bin\Debug\MaterialSkin.dll
+C:\Users\Teresa Ho\dino-game\Cosmo Dino Game\Cosmo Dino Game\bin\Debug\Cosmo Dino Game.exe.config
+C:\Users\Teresa Ho\dino-game\Cosmo Dino Game\Cosmo Dino Game\obj\Debug\Cosmo Dino Game.exe
+C:\Users\Teresa Ho\dino-game\Cosmo Dino Game\Cosmo Dino Game\obj\Debug\Cosmo Dino Game.pdb
+C:\Users\Teresa Ho\dino-game\Cosmo Dino Game\Cosmo Dino Game\bin\Debug\Cosmo Dino Game.exe
+C:\Users\Teresa Ho\dino-game\Cosmo Dino Game\Cosmo Dino Game\bin\Debug\Cosmo Dino Game.pdb
+C:\Users\Teresa Ho\dino-game\Cosmo Dino Game\Cosmo Dino Game\obj\Debug\Cosmo Dino Game.csprojResolveAssemblyReference.cache
+C:\Users\Teresa Ho\dino-game\Cosmo Dino Game\Cosmo Dino Game\obj\Debug\Cosmo_Dino_Game.Form1.resources
+C:\Users\Teresa Ho\dino-game\Cosmo Dino Game\Cosmo Dino Game\obj\Debug\Cosmo_Dino_Game.Properties.Resources.resources
+C:\Users\Teresa Ho\dino-game\Cosmo Dino Game\Cosmo Dino Game\obj\Debug\Cosmo Dino Game.csproj.GenerateResource.Cache
